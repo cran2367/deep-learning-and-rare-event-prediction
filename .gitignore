@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+lstm.ipynb
+*.DS_Store
+*data/processminer-sheet-break-rare-event-dataset.csv
 __pycache__/
 *.py[cod]
 *$py.class
