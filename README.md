@@ -14,7 +14,7 @@ Created and maintained by,
 ### Chapters
 
 1. Introduction
-2. [Setup and Problem Dataset](/setup.ipynb)
+2. [Setup and Problem Dataset](/setup-data.ipynb)
 3. [Multi-layer Perceptron (MLP)](/mlp.ipynb)
 4. Long and Short Term Memory (LSTM)
 5. Convolutional Neural Network (CNN)
