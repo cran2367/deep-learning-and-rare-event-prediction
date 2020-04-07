@@ -35,7 +35,9 @@ The video lectures of the chapter are published on [YouTube](https://www.youtube
 
 [Chapter 1 - Recap](https://www.youtube.com/watch?v=s8eydoxAIek&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=2&t=743s)
 
-[Chapter 2 - TensorFlow Installation](https://www.youtube.com/watch?v=PDBAWstMFaI&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=2)
+[Chapter 2 - Part 1 - TensorFlow Installation - Background](https://www.youtube.com/watch?v=PDBAWstMFaI&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=2)
+
+[Chapter 2 - Part 2 - Getting Started - TensorFlow on Google Colab](https://www.youtube.com/watch?v=nYdFm0s-k2w&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=3)
 
 [Chapter 3 - Part 1 - Background](https://www.youtube.com/watch?v=56nOUzy8ivM&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=3)
 
@@ -52,6 +54,18 @@ The video lectures of the chapter are published on [YouTube](https://www.youtube
 [Chapter 3 - Part 6 - Importance of Nonlinear Activation](https://www.youtube.com/watch?v=GmHpquoukjM&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=9)
 
 [Chapter 3 - Part 7 - Back Propagation](https://www.youtube.com/watch?v=LOW_KeEAffo&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=10)
+
+[Chapter 3 - Part 8 - Intermission-Outline of rest of the chapter](https://www.youtube.com/watch?v=_Ssk2ISXFSc&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=13&t=0s)
+
+[Chapter 3 - Part 9 - Curve Shifting for Early Prediction](https://www.youtube.com/watch?v=pNUZ1uqDnEY&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=13)
+
+[Chapter 3 - Part 10 - MLP training iteration levels](https://www.youtube.com/watch?v=XNbgcdXSoV8&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=14)
+
+[Chapter 3 - Part 11 - Custom metric in TensorFlow I](https://www.youtube.com/watch?v=txqKQSyeO0M&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=15)
+
+[Chapter 3 - Part 11 - Custom metric in TensorFlow II](https://www.youtube.com/watch?v=yTVWA18kIAM&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=16)
+
+[Chapter 3 - Part 12 - Dropout I - Co-adaptation Phenomenon](https://www.youtube.com/watch?v=0TI8VvSSJjk&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=17)
 
 The videos of the next chapters will be published from now until July 2020.
 
