@@ -67,6 +67,24 @@ The video lectures of the chapter are published on [YouTube](https://www.youtube
 
 [Chapter 3 - Part 12 - Dropout I - Co-adaptation Phenomenon](https://www.youtube.com/watch?v=0TI8VvSSJjk&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=17)
 
+[Chapter 3 - Part 12 - Dropout II - Underlying Concept](https://www.youtube.com/watch?v=tI02wOXqNE4&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=20&t=0s)
+
+[Chapter 3 - Part 12 - Dropout III (as) A Regularization Technique](https://www.youtube.com/watch?v=xBC0twpyP6s&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=20)
+
+[Chapter 3 - Part 13 - Activations I - Importance of Gradients](https://www.youtube.com/watch?v=5_VMpMOKUOw&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=21)
+
+[Chapter 3 - Part 13 - Activations II -Gradient vis-à-vis Learning](https://www.youtube.com/watch?v=hsBOBcQ2ZUI&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=22)
+
+[Chapter 3 - Part 14 - Vanishing & Exploding Gradient](https://www.youtube.com/watch?v=OlVDuzMUZVI&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=23)
+
+[Chapter 3 - Part 15 - Story of Activation Functions](https://www.youtube.com/watch?v=XuJ6IkkNGeA&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=24)
+
+[Chapter 3 - Part 16 - Rules-of-thumb MLP Dense Layer Models](https://www.youtube.com/watch?v=RE4ZmVA3DTE&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=25)
+
+[Chapter 3 - Codes I - MLP Modeling - Get ready with Data Scaling](https://www.youtube.com/watch?v=1YCpS32_Ym8&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=26)
+
+[Chapter 3 - Codes II - MLP - First (Baseline) Dense Layer Model](https://www.youtube.com/watch?v=FjRIryiAkDk&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=27)
+
 The videos of the next chapters will be published from now until July 2020.
 
 ---
