@@ -1,6 +1,6 @@
 # Deep Learning and Rare Event Prediction
 
-Code repository of the book, *Deep Learning and Rare Event Prediction*, to be released in July 2020.
+Code repository of the book, *Deep Learning and Rare Event Prediction*, to be released in 2021.
 
 
 Created and maintained by,
