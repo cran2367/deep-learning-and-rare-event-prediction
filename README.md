@@ -85,7 +85,7 @@ The video lectures of the chapter are published on [YouTube](https://www.youtube
 
 [Chapter 3 - Codes II - MLP - First (Baseline) Dense Layer Model](https://www.youtube.com/watch?v=FjRIryiAkDk&list=PLlSi-ZIhNrCUcphQRPQt1qEkpUjKsrSSc&index=27)
 
-The videos of the next chapters will be published from now until July 2020.
+The videos of the next chapters will be published from now until July 2021.
 
 ---
 
