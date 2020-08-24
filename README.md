@@ -26,7 +26,7 @@ Created and maintained by,
 7. Temporal Reconstruction Models
 8. [Appendix](/utilities)
 
-Codes of the chapters will be published from now until July 2020.
+Codes of the chapters will be published from now until July 2021.
 
 
 ## Video Lectures
