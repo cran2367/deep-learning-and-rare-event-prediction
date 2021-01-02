@@ -1,6 +1,6 @@
 # Understanding Deep Learning: Application in Rare Event Prediction
 
-This repository is for the book, [*Understanding Deep Learning: Application in Rare Event Prediction*](http://connaissancepublishing.ai/understanding-deep-learning/), to be released in Dec 2020.
+This repository is for the book, [*Understanding Deep Learning: Application in Rare Event Prediction*](http://connaissancepublishing.ai/understanding-deep-learning/).
 
 The link to the book is [here](http://connaissancepublishing.ai/understanding-deep-learning/).
 
