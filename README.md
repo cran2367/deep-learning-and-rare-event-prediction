@@ -14,6 +14,7 @@ LinkedIn: [www.linkedin.com/in/chitta-ranjan-b0851911/](https://www.linkedin.com
 
 Medium: [https://medium.com/@cran2367](https://medium.com/@cran2367)
 
+
 ## Chapters
 
 1. Introduction
@@ -37,6 +38,12 @@ Medium: [https://medium.com/@cran2367](https://medium.com/@cran2367)
 	d. [Classifier pretrained with convolutional autoencoder](/classifier-pretrained-with-convolutional-autoencoder.ipynb)
  
 8. [Appendix](/utilities)
+
+## Setup Data
+
+
+1. Download the data from: [data link](https://docs.google.com/forms/d/e/1FAIpQLSdPCkTFW1wTp6tAP1C1BhT7HWTQ60-GfCGvWs9Ca4WbR0FIdg/viewform)
+2. Place the data file in the `/data/` directory.
 
 
 ## Video Lectures
