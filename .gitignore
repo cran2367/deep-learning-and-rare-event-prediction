@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
-data/processminer-sheet-break-rare-event-dataset.csv
 archive/
+data/processminer-sheet-break-rare-event-dataset.csv
 *.pdf
 *.DS_Store
 __pycache__/
